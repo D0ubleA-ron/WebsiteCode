@@ -9,22 +9,13 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 1,
-  },
-  {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-      image: '/images/3.jpg',
+    title: 'Census Research Project',
+    description: "This project was a collaborative effort in which our group solved a reasearch problem using data analytics. The research question I chose to answer is wether Race and Gender affected earnings. To do this I used Jupyter Lab to clean, manipulate and create an EDA using the census data. I then used Tableau to create a dashboard to present my findings",
+      image: '/images/2.png',
       tags: ['React', 'WebRTC'],
     source: 'https://google.com',
     visit: 'https://google.com',
-    id: 2,
+    id: 1,
   },
   {
     title: 'Unichat',
@@ -33,7 +24,7 @@ export const projects = [
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://google.com',
     visit: 'https://google.com',
-    id: 3,
+    id: 2,
   },
 ];
 
