@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'The Martian Story Game',
+    description: "This game alongside the website was created by my friend Max and I as a project for our English 11 Class. Using Python, we created a game in which the player role plays as Matt Damon's character in The Martian and attempts to escape Mars",
       image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['Wix Web Editor', 'Python'],
+    source: 'https://codehs.com/sandbox/doublearon/martian-game',
+    visit: 'https://maximusjoe278.wixsite.com/martian',
     id: 0,
   },
   {

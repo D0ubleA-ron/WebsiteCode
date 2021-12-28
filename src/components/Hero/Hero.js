@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         My name is Aaron Deo, I am a second year UBC student majoring in Computer Science with a minor in Data Sciences . This is my personal website to showcase personal projects I am working on and/or completed!
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}> Learn More </Button>
+      <Button onClick={() => window.location = "mailto:aarondeo30@gmail.com"}> Learn More </Button>
     </LeftSection>
   </Section>
 );
